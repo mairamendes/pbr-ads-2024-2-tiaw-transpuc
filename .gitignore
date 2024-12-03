@@ -1,9 +1,0 @@
-# Ignorar pastas do sistema
-AppData/
-Cookies/
-Temp/
-
-# Ignorar arquivos temporários
-*.log
-*.tmp
-
