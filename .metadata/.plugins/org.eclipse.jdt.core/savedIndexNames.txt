@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Maíra\Desktop\TIAW_TransPUC\.metadata\.plugins\org.eclipse.jdt.core
-2929398706.index
-3897542400.index
-1865797976.index
