@@ -1,0 +1,17 @@
+# Ignorar pastas do sistema
+AppData/
+Cookies/
+Temp/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
+
+Configurações Locais/
+Dados de Aplicativos/
+3D Objects/
+Documents/
+Downloads/
+Desktop/
+Music/
+Pictures/
