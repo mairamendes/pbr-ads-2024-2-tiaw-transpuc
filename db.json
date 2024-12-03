@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "John",
+      "sobrenome": "Doe",
+      "cpf": "123.456.789-00",
+      "telefone": "(11) 98765-4321",
+      "email": "johndoe@email.com",
+      "senha": "senha123",
+      "carros": [
+        {
+          "modelo": "Fusca 1970",
+          "placa": "ABC-1234"
+        }
+      ]
+    }
+  ]
+}
